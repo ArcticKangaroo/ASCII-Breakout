@@ -11,7 +11,7 @@
 ### About
 The classic game Breakout implemented in C++ and ncurses for the Linux command line.
 
-#### Gameplay
+### Gameplay
 * Use the left and right arrow keys to control the paddle.
 * Hit the ball with the paddle to break the bricks.
 * Earn points for each destroyed brick.
