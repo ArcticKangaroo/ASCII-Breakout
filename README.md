@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <h3 align="center">ENGG1340 Breakout</h3>
+  <h3 align="center">ASCII Breakout</h3>
   <p align="center"><i>Breakout remade for the Linux terminal</i></p>
   <img width="480" height="480" src="https://github.com/ArcticKangaroo/ASCII-Breakout/assets/62847649/5930b7cb-d465-41a6-bed3-60d023040ee8" alt="Screenshot">
 </div>
