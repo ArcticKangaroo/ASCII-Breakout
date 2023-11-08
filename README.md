@@ -18,8 +18,8 @@ The classic game Breakout implemented in C++ and ncurses for the Linux command l
 * Lose a life if the ball falls off the screen.
 * The game concludes when you run out of lives or clear all the bricks.
 
-## Requirements
+### Requirements
 Requires `ncurses` to run.
 
-## License
+### License
 Distributed under the MIT License. See `LICENSE` for more information.
